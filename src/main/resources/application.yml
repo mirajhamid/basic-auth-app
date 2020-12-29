@@ -1,0 +1,8 @@
+server:
+  port:  1212
+  
+spring:
+  security:
+    user:
+      name: user
+      password: password
